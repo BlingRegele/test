@@ -62,6 +62,20 @@ Folosirea limbajului OOC pe server este permis doar in prezenta unui admin la ti
 
 Reprezinta folosirea unor puteri fictionale, acestea neexistand in viata reala si neacordarea de sanse egale tuturor partilor implicate intr-un roleplay.
 
+<details>
+
+<summary>Exemple</summary>
+
+* Incapacitatea de a simula accidentele rutiere.
+
+* Condusul cu doua sau mai mult de doua roti sparte.
+
+* Blocarea cailor de acces (usa de la magazine/strazi) pentru a avea un avantaj in roleplay.
+
+* Intervenirea peste alte persoane la jafuri.
+
+</details>
+
 ***
 
 #### 1.06: Meta-gaming (Meta) <a href="#id-1.07-meta-gaming-meta" id="id-1.07-meta-gaming-meta"></a>
@@ -302,7 +316,6 @@ Nu aveti dreptul de a tine pe cineva in roleplay mai mult de **90 de minute** de
 
 Zonele publice sunt:
 
-* Primaria
 * Spital
 * Sectia de Politie
 * Showroom (dealership auto)
@@ -316,7 +329,7 @@ Zonele publice sunt:
 * Benzinarii
 * Tuning auto
 * Bancomate (ATM)
-* Garaje
+* Garaje (Depinde de zona lui)
 * Banci
 * Autostrazi
 
@@ -418,7 +431,7 @@ Cop fear este o ramura din regula No-fear și face referință la persoanele car
 
 * Este strict interzis sa luati la misto un polițist indiferent de situatie.
 * Este strict interzis sa va împușcați / sa va bateti cu DIICOT-ul deoarece în mod normal ar trebui sa rolati frica cand ii vedeți și sa fugiti fără sa va mai uitati in spate sau sa va ridicati mainile si sa va predati. (Aceasta regula nu se aplica la jafuri de banca / în zonele rău famate în intervalul orar 20:00 - 08:00 și nu se mai aplica regula în cazul în care va aflați la locațiile ilegale de (Etnobotanice / Tigari / Marijuana / Cocaina / etc) sau în cazul în care va aflați la livrat.
-* Este strict interzis sa va opriti langa un politist aflat intr-o misiune sa ii (Puneti intrebari/sa privit/ sa reclamati etc..) daca veti face acest lucru se va considera cop fear! (aceasta regula se aplica si pentru medicii aflati in misiune)
+* Este strict interzis sa va opriti langa un politist aflat intr-o misiune sa ii (Puneti intrebari/sa priviti/ sa reclamati etc..) daca veti face acest lucru se va considera cop fear! (aceasta regula se aplica si pentru medicii aflati in misiune)
 
 ***
 
@@ -428,13 +441,7 @@ Reprezinta situatia in care o persoana creeaza multiple reclamatii impotriva unu
 
 ***
 
-#### 1.43: Filmare la roleplay <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
-
-Este obligatoriu sa aveti filmarea pornita la orice roleplay complex pe care il faceti pe server. De asemenea, o filmare este necesara si la orice roleplay care consta in ilegalitati ( impuscaturi, jefuit etc.).
-
-***
-
-#### 1.44: Nume interzise (In-Caracter) <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+#### 1.43: Nume interzise (In-Caracter) <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
 
 * Nume celebre (Numele unei persoane cunoscute în întreaga lume, o anumita cultura sau doar o tara)
 * Nume nerealiste.
@@ -442,39 +449,19 @@ Este obligatoriu sa aveti filmarea pornita la orice roleplay complex pe care il 
 
 ***
 
-#### 1.45: Ninja Jack <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+#### 1.44: Ninja Jack <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
 
 Ninja Jack-ul reprezinta furtul unui autovehicul fara a întreține un minim de roleplay.
 
 ***
 
-#### 1.46: Suferintele In-Character & Out-of-character <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
-
-Suferințele sunt strict interzise In-Character cât și cele Out-of-character.
-
-<details>
-
-<summary>Exemple</summary>
-
-* Culcat slabule
-* Culcat
-* Sunteti slabi
-* Sit dog
-* La cotet
-* Tot culcati?
-* Ai incercat
-
-</details>
-
-***
-
-#### 1.47: Bombardier <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+#### 1.45: Bombardier <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
 
 Regula “bombardier” reprezinta intimidarea/jignirea/provacarea unui jucator fără un motiv bine intemeiat, căutarea de scandal cu toata lumea fara un anumit scop roleplay sau total aleatoriu.
 
 ***
 
-#### 1.48:Coruptie <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+#### 1.46:Coruptie <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
 
 Corupția nu este permisă nici IC nici OOC. Aceasta regula a fost implementată pentru oamenii din departamentul de Poliție/Smurd.&#x20;
 
@@ -502,6 +489,6 @@ Instigarea la corupție este și ea sanctionabila, nu aveți voie sa instigati m
 
 ***
 
-#### 1.49:Permisul de port arma <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+#### 1.47:Permisul de port arma <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
 
 Daca detineti un “Permis Port Arma” nimeni nu are voie sa va puna sa il oferiti/aruncat (se sanctioneaz cu Jail 50min) daca va omoara dupa ce refuzati asta, practic aveti 100% dreptul de a refuza aceste lucruri. Totodata politia nu are voie sa va confiste nicio arma daca nu va prins folosind-o (fie ca legal sau nu)
