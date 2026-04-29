@@ -489,4 +489,6 @@ Instigarea la corupție este și ea sanctionabila, nu aveți voie sa instigati m
 
 ***
 
-#### &#x20;<a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+#### 1.47:Filmari la Role Play <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
+
+Filmarea la roleplay este obligatorie la orice la orice roleplay mai complex precum batai cu politia , batai pe zone rau famate etc.
