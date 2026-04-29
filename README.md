@@ -67,11 +67,8 @@ Reprezinta folosirea unor puteri fictionale, acestea neexistand in viata reala s
 <summary>Exemple</summary>
 
 * Incapacitatea de a simula accidentele rutiere.
-
 * Condusul cu doua sau mai mult de doua roti sparte.
-
 * Blocarea cailor de acces (usa de la magazine/strazi) pentru a avea un avantaj in roleplay.
-
 * Intervenirea peste alte persoane la jafuri.
 
 </details>
@@ -97,29 +94,28 @@ Reprezinta folosirea informatiilor OOC in scopul de a obtine un avantaj IC.
 
 #### 1.07: Condusul Non Roleplay <a href="#id-1.08-condusul-non-roleplay" id="id-1.08-condusul-non-roleplay"></a>
 
-Este strict interzis sa conduceti un autovehicul cu o viteza mai mare de 150 km/h in orasul Los Santos.
+Pe drumurile din orasul Los Santos va este permis sa circulati cu orice tip de vehicul cu viteza maxima de 200km/h.\
+\
+Pe drumurile nemarcate pe harta/munti/dealuri va este permis sa mergeti doar cu vehicule tip extreme off-road cu o viteza maxima de 150km/h.
 
-**Off Road:**
-
-Este strict interzis sa mergeti pe drumuri de tara, forestiere sau neasfaltate cu un autovehicul care nu este de tip Off-Road.
+Pe drumurile maro/neasfaltate va este permis sa mergeti cu orice tip de vehicul cu viteza maxima de 50km/h.\
+\
+Condusul pe contrasens fara un motiv bine intemeiat (jafuri/urmarire cu politia) este strict interzis\
+\
+Este strict interzis sa stationati cu elicopterele in urmatoarele zone:\
+-Strazi\
+-Blocuri (care nu au helipad)\
+-Case
 
 {% hint style="info" %}
-Cu o masina off-road va este <mark style="color:green;">permis</mark> sa mergeti cu o viteza de 30-60 km/h, iar in cazul extrem in care fugiti pentru viata voastra sau sunteti urmariti, va este <mark style="color:green;">permis</mark> sa mergeti cu maxim 100-120 km/h.
+Exceptie de la aceasta regula fac elicopterele E.M.P.A , Politia si Hitmanii (la contract).
 {% endhint %}
 
 **Accidente:**
 
-Intrarea frontal intr-un alt autovehicul cu scopul de a il opri, indiferent de vehicului pe care il conduceti, este strict <mark style="color:$danger;">interzisa</mark>.
+Intrarea frontal intr-un alt autovehicul cu scopul de a il opri, indiferent de vehicului pe care il conduceti, este strict interzisa.
 
-**Elicoptere:**
-
-Este strict interzis sa aterizati un elicopter pe strazi, blocuri (care nu sunt echipate cu un helipad) sau case.
-
-Este strict interzis sa pilotati elicopterele/avioanele aproape de sol.
-
-{% hint style="info" %}
 Exceptie de la aceasta regula fac elicopterele de S.M.U.R.D. si politie.
-{% endhint %}
 
 **Avioane:**
 
@@ -141,12 +137,20 @@ Reprezinta omorarea unui jucator iar dupa ce acesta primeste respawn, se intoarc
 
 #### 1.10: Character Kill (CK) <a href="#id-1.13-character-kill-ck" id="id-1.13-character-kill-ck"></a>
 
-Character Kill-ul reprezinta uciderea unui jucator. Dacă un jucător primește CK, acesta își va putea schimba identitatea/buletinul și nu va mai putea juca cu acel nume.
+<mark style="color:$success;">Character kill - Easy</mark>\
+<mark style="color:$warning;">**In cazul factiunilor legale**</mark>**&#x20;,** persoana care paraseste factiunea trebuie doar sa predea armele sau obiectele care apartin de factiune. In continuare veti avea acelasi buletin , infatisare si nu veti uita informatiile obtinute.\
+<mark style="color:$warning;">**In cazul politiei**</mark> , membrii retin toate informatiile cu exceptia informatiilor despre gruparile infractionale din cadrul interiorului departamentului de politie.\
+\
+<mark style="color:$success;">Character kill - Hard</mark>\
+Ancest tip de CK se acorda atunci cand aveti un Roleplay mai complex precum : \
+-Mandat\
+-Furnizare de informatii\
+-Roleplay cu sindicatul\
+-Prin abuzarea de bug-uri intalnite pe server fara sa anuntati staff-ul
 
-* Pentru a acorda un CK, jucătorul care dorește sa o facă trebuie sa aibă un motiv foarte bun (de exemplu: un asociat de mafie se duce la poliție și da informații despre mafia în care este - respectivul poate primi CK dacă mafia află IC ce a făcut.  Totodată, roleplay-ul făcut pentru un CK trebuie sa fie complex.
-* În cazul în care comite infractiuni care echivalează închisoarea pe viață.
-* În cazul în care un jucător trădează o anumită grupare/organizație și ia legatura cu alta facțiune pentru a acorda informații despre respectiva grupare/organizație.
-* Pentru acordarea unui CK aveți nevoie de acordul unui membru High Staff.
+{% hint style="info" %}
+Pe langa stergerea averii va veti pierde si toate orele jucate , fiind obligati sa incepeti de la 0. Aceasta se acorda doar de catre unul dintre membrii High Staff.
+{% endhint %}
 
 ***
 
@@ -308,7 +312,7 @@ Este interzis sa va dati drept membru al oricarei factiuni sau sa va imbracati p
 
 #### 1.29: Limita roleplay-ului <a href="#id-1.33-limita-roleplay-ului" id="id-1.33-limita-roleplay-ului"></a>
 
-Nu aveti dreptul de a tine pe cineva in roleplay mai mult de **90 de minute** decat daca respectivii participanti la roleplay accepta depasirea limitei.
+Nu aveti dreptul de a tine pe cineva in roleplay mai mult de **60 de minute** decat daca respectivii participanti la roleplay accepta depasirea limitei.
 
 ***
 
@@ -332,6 +336,8 @@ Zonele publice sunt:
 * Garaje (Depinde de zona lui)
 * Banci
 * Autostrazi
+* Drumul ce inconjoara zona rosie Vespucci
+* Drumul lateral din zona rosie Sandy
 
 {% hint style="info" %}
 Aceste zone sunt definite ca Safe Zone.
@@ -375,7 +381,7 @@ Nu aveti dreptul sa chemati un grad superior fara un motiv bine intemeiat.
 
 #### 1.35: Despre dovezi <a href="#id-1.39-despre-dovezi" id="id-1.39-despre-dovezi"></a>
 
-Dovezile ( filmarile si pozele ) sunt valide 48h ( 2 zile ) de la intamplarea evenimentului. Reclamatiile ce au dovezi mai vechi de 2 zile nu vor fi luate in considerare, indiferent de importanta acestora.
+Dovezile ( filmarile si pozele ) sunt valide 78h ( 3 zile ) de la intamplarea evenimentului. Reclamatiile ce au dovezi mai vechi de 2 zile nu vor fi luate in considerare, indiferent de importanta acestora.
 
 ***
 
@@ -407,15 +413,9 @@ Modul de FOV este interzis doar la war.
 
 ***
 
-#### 1.38: Butonul de Home <a href="#id-1.42-butonul-de-home" id="id-1.42-butonul-de-home"></a>
+#### 1.38: Butonul de DEL <a href="#id-1.42-butonul-de-home" id="id-1.42-butonul-de-home"></a>
 
-Este interzisa apasarea butonului de home ( buton ce arata ID-ul jucatorilor din preajma ) inainte de a se produce un fail. Home-ul se va apasa doar cu un motiv justificat dupa ce failul a avut loc.
-
-***
-
-#### 1.39: Chicken-Run (CR) <a href="#id-1.42-butonul-de-home" id="id-1.42-butonul-de-home"></a>
-
-Chicken-Run este atunci cand un jucator fuge dintr-o parte în alta astfel incat sa evite gloantele, ceea ce este non roleplay și interzis. Aceasta regula se aplica și în cazul unei batai in grup. Atunci cand are loc o bătaie în grup, nu aveti sa fugiti si sa loviti cu bata, topor, cutit, etc.
+Este interzisa apasarea butonului DEL ( buton ce arata ID-ul jucatorilor din preajma ) inainte de a se produce un fail. Home-ul se va apasa doar cu un motiv justificat dupa ce failul a avut loc.
 
 ***
 
@@ -430,7 +430,7 @@ Este obligatoriu sa aveti filmarea pornita la orice roleplay complex pe care il 
 Cop fear este o ramura din regula No-fear și face referință la persoanele care nu au frica de polițiști. Mai pe înțelesul tuturor trebuie sa aveți un comportament civilizat și respectuos fata de polițiști indiferent dacă faceți parte dintr-o organizație sau nu. Niste exemple sunt notate mai jos:
 
 * Este strict interzis sa luati la misto un polițist indiferent de situatie.
-* Este strict interzis sa va împușcați / sa va bateti cu DIICOT-ul deoarece în mod normal ar trebui sa rolati frica cand ii vedeți și sa fugiti fără sa va mai uitati in spate sau sa va ridicati mainile si sa va predati. (Aceasta regula nu se aplica la jafuri de banca / în zonele rău famate în intervalul orar 20:00 - 08:00 și nu se mai aplica regula în cazul în care va aflați la locațiile ilegale de (Etnobotanice / Tigari / Marijuana / Cocaina / etc) sau în cazul în care va aflați la livrat.
+* Este strict interzis sa va împușcați / sa va bateti cu T.A.T-ul deoarece în mod normal ar trebui sa rolati frica cand ii vedeți și sa fugiti fără sa va mai uitati in spate sau sa va ridicati mainile si sa va predati. (Aceasta regula nu se aplica la jafuri de banca / în zonele rău famate în intervalul orar 20:00 - 08:00 și nu se mai aplica regula în cazul în care va aflați la locațiile ilegale de (Tigari / Marijuana / Cocaina / etc) sau în cazul în care va aflați la livrat.
 * Este strict interzis sa va opriti langa un politist aflat intr-o misiune sa ii (Puneti intrebari/sa priviti/ sa reclamati etc..) daca veti face acest lucru se va considera cop fear! (aceasta regula se aplica si pentru medicii aflati in misiune)
 
 ***
@@ -463,7 +463,7 @@ Regula “bombardier” reprezinta intimidarea/jignirea/provacarea unui jucator 
 
 #### 1.46:Coruptie <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
 
-Corupția nu este permisă nici IC nici OOC. Aceasta regula a fost implementată pentru oamenii din departamentul de Poliție/Smurd.&#x20;
+Corupția nu este permisă nici IC nici OOC. Aceasta regula a fost implementată pentru oamenii din departamentul de Poliție/Smurd si se sanctioneaza cu demitere si 30 de zile transfer.
 
 <details>
 
@@ -489,6 +489,4 @@ Instigarea la corupție este și ea sanctionabila, nu aveți voie sa instigati m
 
 ***
 
-#### 1.47:Permisul de port arma <a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
-
-Daca detineti un “Permis Port Arma” nimeni nu are voie sa va puna sa il oferiti/aruncat (se sanctioneaz cu Jail 50min) daca va omoara dupa ce refuzati asta, practic aveti 100% dreptul de a refuza aceste lucruri. Totodata politia nu are voie sa va confiste nicio arma daca nu va prins folosind-o (fie ca legal sau nu)
+#### &#x20;<a href="#id-1.45-filmare-la-roleplay" id="id-1.45-filmare-la-roleplay"></a>
