@@ -224,7 +224,7 @@ De asemenea este strict interzis sa divulgati vulnerabilitatile altor persoane. 
 
 #### 1.18: Reclama <a href="#id-1.22-reclama" id="id-1.22-reclama"></a>
 
-Este interzisa promovarea altor comunitati, servere, website-uri sau a oricaror altor entitati care nu au un parteneriat cu comunitatea Underground Romania, fie prin intermediul nickname-ului, in chat-ul global, cat si verbal, atat In-Character, cat si Out of Character.
+Este interzisa promovarea altor comunitati, servere, website-uri sau a oricaror altor entitati care nu au un parteneriat cu comunitatea VIPURI Romania, fie prin intermediul nickname-ului, in chat-ul global, cat si verbal, atat In-Character, cat si Out of Character.
 
 ***
 
