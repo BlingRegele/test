@@ -10,4 +10,7 @@ Dacă cererea voastră e aprobată și ați trecut testul teroretic , primiți *
 
 • **Lider ≥ 16 ani**
 
-• **Trebuie să cunoașteți regulamentul mafiilor și regulamentul serverului**
+• **Trebuie să cunoașteți regulamentul mafiilor și regulamentul serverului.**
+
+• **Trebuie să fiti minim 4 membrii cu tot cu liderul.**
+

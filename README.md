@@ -445,7 +445,7 @@ Reprezinta situatia in care o persoana creeaza multiple reclamatii impotriva unu
 
 * Nume celebre (Numele unei persoane cunoscute în întreaga lume, o anumita cultura sau doar o tara)
 * Nume nerealiste.
-* Nume pune pentru a starni amuzamentul (Tom Beron, Lin Jon Kur, Iamil Angura, etc)
+* Nume puse pentru a starni amuzamentul (Tom Beron, Lin Jon Kur, Iamil Angura, etc)
 
 ***
 
