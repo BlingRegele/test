@@ -52,6 +52,7 @@ ADMIN JAIL
 * \- Abuz de third - 50 **Check Points**
 * \- Stream Snipe - 100 **Check Points** **+ 1 Warn (In funtie de gravitate)**
 * \- Lipsa filmare la RP - 75 **Check Points**
+* \- DEL nejustificat - 30 Check Points
 
 {% hint style="warning" %}
 ### Warn-urile nu sunt obligatorii , este la alegerea voastra daca le dati sau nu , in funtie de gravitatea situatiei
